@@ -1,0 +1,33 @@
+#CV{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#heading{
+    text-decoration: underline;
+    color: crimson;
+    margin-bottom: 20px;
+}
+#CV li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+#CV li input{
+    height: 31px;
+    width: 305px;
+    border: 1px solid crimson;
+    border-radius: 20px;
+    padding: 19px;
+}
+#CV button{
+    margin-top: 10px;
+    color: white;
+    border-radius: 15px;
+}
+.image{
+    margin-left: 86px;
+    border-radius: 30px;
+    margin-bottom: 11px;
+}
